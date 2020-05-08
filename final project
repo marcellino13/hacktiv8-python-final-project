@@ -1,6 +1,0 @@
-import pandas as pd
-from matplotlib import pyplot as plt
-import numpy as np
-
-#importing file
-df = pd.read_csv('/Users/marcellsuprapto/Library/Containers/com.microsoft.Excel/Data/Downloads/vgsales.csv')
